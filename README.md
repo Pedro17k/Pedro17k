@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Pedro 👋
   <p align="center">
-  <img src= "[https://image.myanimelist.net/ui/wxdh0TSzH0H6x_IS3tHqnHXhUfK9UNO5g8rNeK_a4WrCCJzNSVlcdYhRZ6EDNsESPsRFUC7tbiapgGf-Oo6Ceg](https://i.pinimg.com/originals/7a/ee/15/7aee157784e813a334570048779d6c85.gif)">
+  <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGlkdnhiNnF2eGwwN3h2NWdpczF4MTh2b2Fha29keTdnY3d0MHVjYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jAe22Ec5iICCk/giphy.gif">
 </p>
 <h2> 👨🏻‍💻 &nbsp;Informações</h2>
 
