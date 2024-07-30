@@ -1,4 +1,4 @@
-### Olá! Eu sou o Pedro 👋
+### 👋
   <p align="center">
   <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGlkdnhiNnF2eGwwN3h2NWdpczF4MTh2b2Fha29keTdnY3d0MHVjYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jAe22Ec5iICCk/giphy.gif">
 </p>
@@ -6,8 +6,6 @@
 
 ```yaml
 - 🌱 Estudando Cybersegurança 
-
-- 😄 Pronomes: Ele/Dele
 ```
   
 ---  
